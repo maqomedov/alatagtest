@@ -1,18 +1,18 @@
 {
-  "name": "Lounge Tagger Bot",
-  "logo":"https://telegra.ph/file/dfa517fd00b6aca5f7ac9.jpg",
-  "description": "Lounge tagger bot sıze ucretsız uyelerınızı etıketleyen bı bottur.",
+  "name": "Kirpi Tagger Bot",
+  "logo":"https://telegra.ph/file/b82b4e7b641d99f1ed65b.jpg",
+  "description": "Kirpi Tagger Botu xüsusi olaraq Kirpi üçündür.",
   "env": {
     "TOKEN": {
-      "description": "bot token girin.",
+      "description": "2007094845:AAFCZh35tNfZvZEQKJfzJLvSYfnO-TF_bQE",
       "value": ""
     },
     "APP_ID": {
-      "description": "@otomytelegrambot dan api hash api id alınız.",
+      "description": "7909749",
       "value": ""
     },
     "API_HASH": {
-      "description": "@otomytelegrambot dan api hash api id alınız.",
+      "description": "4f2db26d7707fa901571f7ce4a3db247",
       "value": ""
     }
   },
